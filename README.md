@@ -3,3 +3,4 @@ I created this repository to teach my friends about git and Github. They were ta
 
 List of contributers.
 [Prateek Mishra](https://github.com/MiKinshu)
+[Raunak Rathour](https://github.com/raunakrathour)

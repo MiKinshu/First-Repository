@@ -4,9 +4,12 @@ I created this repository to teach my friends about git and Github. They were ta
 List of contributers.
 [Prateek Mishra](https://github.com/MiKinshu)
 
+[Utkarsh Priyam](https://github.com/gokubuffer)
+
 [Harsh Bajaj](https://github.com/CodeDropper)
 
 [Raunak Rathour](https://github.com/raunakrathour)
 
 [Sanket Mundra](https://github.com/urcoder4u)
+
 
